@@ -140,7 +140,7 @@ Higher scores indicate stronger overall financial performance.
 ---
 
 
-# 🔄 Project Workflow
+# 🏗️ Project Architecture
 
 ```mermaid
 flowchart TD
@@ -262,7 +262,7 @@ https://n100financialintelligenceplatform-njqenrfxgue6evxbdjcgmj.streamlit.app/
 ## 🏠 Home
 
 <p align="center">
-  <img src="assets/screenshots/home.png" width="100%">
+  ![Home](assets/screenshots/home.png)
 </p>
 
 ---
