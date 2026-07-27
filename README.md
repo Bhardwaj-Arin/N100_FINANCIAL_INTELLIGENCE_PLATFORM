@@ -257,53 +257,42 @@ https://n100financialintelligenceplatform-njqenrfxgue6evxbdjcgmj.streamlit.app/
 
 ---
 
+
 # 📸 Dashboard Preview
 
 ## 🏠 Home
 
-<p align="center">
-  ![Home](assets/screenshots/home.png)
-</p>
+![Home](assets/screenshots/home.png)
 
 ---
 
 ## 📈 Dashboard
 
-<p align="center">
-  <img src="assets/screenshots/dashboard.png" width="100%">
-</p>
+![Dashboard](assets/screenshots/dashboard.png)
 
 ---
 
 ## 🏢 Company Profile
 
-<p align="center">
-  <img src="assets/screenshots/company_profile.png" width="100%">
-</p>
+![Company Profile](assets/screenshots/company_profile.png)
 
 ---
 
 ## 🤝 Peer Comparison
 
-<p align="center">
-  <img src="assets/screenshots/peer_comparison.png" width="100%">
-</p>
+![Peer Comparison](assets/screenshots/peer_comparison.png)
 
 ---
 
 ## 🏭 Sector Analysis
 
-<p align="center">
-  <img src="assets/screenshots/sector_analysis.png" width="100%">
-</p>
+![Sector Analysis](assets/screenshots/sector_analysis.png)
 
 ---
 
 ## 🏆 Rankings
 
-<p align="center">
-  <img src="assets/screenshots/rankings.png" width="100%">
-</p>
+![Rankings](assets/screenshots/rankings.png)
 
 ---
 
