@@ -14,6 +14,7 @@
 
 ---
 
+
 # 🚀 Project Overview
 
 The **N100 Financial Intelligence Platform** is an end-to-end financial analytics application that transforms raw financial statement data into meaningful business insights.
@@ -24,22 +25,15 @@ Designed with a modular architecture, the project demonstrates a complete data s
 
 ---
 
-# ✨ Key Features
 
-- 📂 Automated Data Loading & Validation
-- 🧹 Data Cleaning & Preprocessing Pipeline
-- ⚙️ Feature Engineering
-- 🧠 Custom Financial Health Score
-- 📈 Executive Dashboard
-- 🏢 Company Profile Analysis
-- 🤝 Peer Comparison
-- 🏭 Sector Analysis
-- 🏆 Company Rankings
-- 📊 Interactive Plotly Visualizations
-- 💾 SQLite Database Integration
-- 🌐 Streamlit Web Application
+# 🎯 Business Problem
+
+Analyzing listed companies requires evaluating multiple financial metrics such as profitability, valuation, leverage, and capital efficiency. Comparing companies across sectors manually is time-consuming and often leads to inconsistent decisions.
+
+This project addresses these challenges by consolidating financial data into a single analytics platform that enables investors, analysts, researchers, and students to compare companies, identify strong performers, analyze sectors, and make data-driven financial decisions through interactive dashboards.
 
 ---
+
 
 # 📊 Dashboard Modules
 
@@ -94,6 +88,40 @@ Project overview, platform objectives, quick insights, and technology stack.
 
 ---
 
+
+# ✨ Key Features
+
+- 📂 Automated Data Loading & Validation
+- 🧹 Data Cleaning & Preprocessing Pipeline
+- ⚙️ Feature Engineering
+- 🧠 Custom Financial Health Score
+- 📈 Executive Dashboard
+- 🏢 Company Profile Analysis
+- 🤝 Peer Comparison
+- 🏭 Sector Analysis
+- 🏆 Company Rankings
+- 📊 Interactive Plotly Visualizations
+- 💾 SQLite Database Integration
+- 🌐 Streamlit Web Application
+
+---
+
+
+# 📌 Key Insights
+
+The platform enables users to quickly answer questions such as:
+
+- Which companies have the strongest financial health?
+- Which sectors outperform others on average?
+- Which companies generate the highest ROE and ROCE?
+- Which companies have high leverage risk?
+- How do peers compare across multiple financial metrics?
+- Which companies lead in market capitalization and valuation?
+- Which companies consistently rank among the top performers?
+
+---
+
+
 # 🧠 Financial Health Score
 
 A custom composite score developed to evaluate the overall financial strength of a company using multiple financial indicators.
@@ -111,6 +139,29 @@ Higher scores indicate stronger overall financial performance.
 
 ---
 
+
+# 🔄 Project Workflow
+
+```mermaid
+flowchart TD
+
+A[Raw Financial Data] --> B[Data Validation]
+B --> C[Data Cleaning]
+C --> D[Feature Engineering]
+D --> E[Financial Health Score]
+E --> F[SQLite Database]
+F --> G[Streamlit Dashboard]
+
+G --> H[Dashboard]
+G --> I[Company Profile]
+G --> J[Peer Comparison]
+G --> K[Sector Analysis]
+G --> L[Rankings]
+```
+
+---
+
+
 # 🛠 Tech Stack
 
 | Category | Technologies |
@@ -124,6 +175,7 @@ Higher scores indicate stronger overall financial performance.
 | Testing | PyTest |
 
 ---
+
 
 # 📁 Project Structure
 
@@ -164,6 +216,22 @@ The project uses financial data of **Nifty 100 companies**, including:
 - Market Capitalization
 - Sector Information
 - Stock Prices
+
+---
+
+
+# 📈 Project Statistics
+
+| Metric | Value |
+|---------|------:|
+| Companies Analyzed | 92 |
+| Sectors Covered | 10 |
+| Dashboard Pages | 5 |
+| Financial Metrics | 20+ |
+| Interactive Charts | 35+ |
+| Processed Records | 6,900+ |
+| Database | SQLite |
+| Deployment | Streamlit Cloud |
 
 ---
 
@@ -239,6 +307,19 @@ https://n100financialintelligenceplatform-njqenrfxgue6evxbdjcgmj.streamlit.app/
 
 ---
 
+
+# 🌟 Project Highlights
+
+- Developed a custom Financial Health Score using multiple financial indicators.
+- Built an end-to-end data pipeline from raw financial statements to interactive dashboards.
+- Designed five business intelligence modules for company, sector, and peer analysis.
+- Implemented modular project architecture with reusable components.
+- Deployed the application using Streamlit Community Cloud.
+- Automated reporting and export of processed analytical datasets.
+
+---
+
+
 # 🔮 Future Improvements
 
 - Live Stock Market APIs
@@ -250,12 +331,15 @@ https://n100financialintelligenceplatform-njqenrfxgue6evxbdjcgmj.streamlit.app/
 
 ---
 
+
 # 👨‍💻 Author
 
 **Arin Bhardwaj**
 
+M.Sc. Mathematics & Scientific Computing  
+National Institute of Technology (NIT) Warangal
+
 - GitHub: https://github.com/Bhardwaj-Arin
-- LinkedIn: *(Add your LinkedIn profile)*
 
 ---
 
