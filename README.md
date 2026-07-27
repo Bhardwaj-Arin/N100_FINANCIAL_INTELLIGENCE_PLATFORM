@@ -39,52 +39,127 @@ This project addresses these challenges by consolidating financial data into a s
 
 ## 🏠 Home
 
-Project overview, platform objectives, quick insights, and technology stack.
+Project introduction, objectives, technology stack, workflow, and navigation guide.
 
-## 📈 Dashboard
+---
 
-- Executive KPIs
+## 📈 Dashboard Overview
+
+- Executive KPI Cards
 - Financial Health Distribution
 - Top & Bottom Companies
-- Sector Performance
-- Bubble Charts
+- Market Capitalization Overview
+- Sector Distribution
 - Treemap
+- Bubble Charts
+- Financial Summary
 - Executive Insights
+
+---
 
 ## 🏢 Company Profile
 
 - Company Overview
-- Financial Metrics
-- Health Gauge
-- Financial Ratio Analysis
-- Similar Companies
+- Financial Health Score
+- Financial Ratios
+- Profitability Metrics
+- Debt Analysis
+- Cash Flow Analysis
+- Valuation Metrics
+- Financial Strength Indicators
 - Executive Summary
+
+---
 
 ## 🤝 Peer Comparison
 
-- Side-by-Side Company Comparison
-- Radar Chart
+- Multi-Company Comparison
 - KPI Comparison
+- Radar Chart
 - Profitability Analysis
-- Valuation Comparison
+- Valuation Analysis
+- Debt Comparison
 - Category Winners
+- Interactive Comparison Charts
+
+---
 
 ## 🏭 Sector Analysis
 
 - Sector Summary
+- Sector Rankings
 - Average Financial Health
 - Profitability Comparison
-- Market Capitalization Analysis
-- Treemap
+- Market Capitalization
+- Sector Treemap
 - Performance Matrix
+- Sector-wise Insights
+
+---
 
 ## 🏆 Rankings
 
-- Top & Bottom Companies
+- Overall Company Rankings
+- Sector Rankings
+- Financial Health Rankings
 - ROE Rankings
 - ROCE Rankings
 - Valuation Rankings
 - Market Leaders
+- Top & Bottom Companies
+
+---
+
+## 🔍 Investment Screener
+
+- Custom Financial Filters
+- ROE Filter
+- PE Filter
+- PB Filter
+- Market Cap Filter
+- Debt Filter
+- Sector Filter
+- High-Quality Company Discovery
+
+---
+
+## 📉 Trend Analysis
+
+- Financial Performance Trends
+- Comparative Charts
+- KPI Trends
+- Company Comparison
+- Sector Trends
+
+---
+
+## 🧠 NLP Insights
+
+- AI Generated Business Summary
+- Company Highlights
+- Financial Strengths
+- Weaknesses
+- Executive Insights
+
+---
+
+## 💰 Cash Flow Intelligence
+
+- Cash Flow Analysis
+- Positive Cash Flow Detection
+- Cash Flow Categories
+- Financial Sustainability Indicators
+
+---
+
+## 📁 Portfolio Analytics
+
+- Portfolio Builder
+- Portfolio Score
+- Sector Allocation
+- Portfolio Diversification
+- Portfolio Comparison
+- Interactive Portfolio Charts
 
 ---
 
