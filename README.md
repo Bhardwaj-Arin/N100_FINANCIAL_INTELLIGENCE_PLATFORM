@@ -258,45 +258,6 @@ https://n100financialintelligenceplatform-njqenrfxgue6evxbdjcgmj.streamlit.app/
 ---
 
 
-# 📸 Dashboard Preview
-
-## 🏠 Home
-
-![Home](assets/screenshots/home.png)
-
----
-
-## 📈 Dashboard
-
-![Dashboard](assets/screenshots/dashboard.png)
-
----
-
-## 🏢 Company Profile
-
-![Company Profile](assets/screenshots/company_profile.png)
-
----
-
-## 🤝 Peer Comparison
-
-![Peer Comparison](assets/screenshots/peer_comparison.png)
-
----
-
-## 🏭 Sector Analysis
-
-![Sector Analysis](assets/screenshots/sector_analysis.png)
-
----
-
-## 🏆 Rankings
-
-![Rankings](assets/screenshots/rankings.png)
-
----
-
-
 # 🌟 Project Highlights
 
 - Developed a custom Financial Health Score using multiple financial indicators.
