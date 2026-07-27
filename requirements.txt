@@ -3,4 +3,7 @@ pandas
 numpy
 plotly
 matplotlib
+wordcloud
 openpyxl
+scikit-learn
+nltk
